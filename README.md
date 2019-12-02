@@ -1,5 +1,5 @@
 # Github Tutorial
-###### by *Elton Chan*
+###### *by Elton Chan*
 ---
 ### Git Commands
 * [git init](commands/git-init.md)
@@ -10,3 +10,6 @@
 * [git log](commands/git-log.md)
 * [git diff](commands/git-diff.md)
 * [git clone](commands/git-clone.md)
+
+### Vocabulary
+* [Fork](vocabulary/fork.md)
