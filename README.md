@@ -9,3 +9,4 @@
 * [git pull](commands/git-pull.md)
 * [git log](commands/git-log.md)
 * [git diff](commands/git-diff.md)
+* [git clone](commands/git-clone.md)

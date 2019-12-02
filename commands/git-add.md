@@ -1,5 +1,5 @@
 # git add
-**Function:** add(s) the directory/file to the staging area where the changes will be [committed](git-commit.md).
+**Function:** adds the directory/file to the staging area where the changes will be [committed](git-commit.md).
 
 *Example 1:*
 git add [file] is used to add specific files to the staging area.
