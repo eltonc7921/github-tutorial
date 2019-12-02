@@ -10,6 +10,7 @@
 * [git log](commands/git-log.md)
 * [git diff](commands/git-diff.md)
 * [git clone](commands/git-clone.md)
+* [git revert](commands/git-revert.md)
 
 ### Vocabulary
 * [Fork](vocabulary/fork.md)
