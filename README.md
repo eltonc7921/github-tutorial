@@ -7,7 +7,7 @@
 2. cd into the directory
 3. initialize it using `git init`
 4. Create a README.md file using `touch <README.md>`
-5. Follow [workflow](#Workflow) commands below
+5. Follow [Workflow](#Workflow) commands below
 6. Go to [Github](github.com)
 7. On the top right of the website, click the `+` and create a new repository
 8. Name the repository the exact same name as the one in the local terminal and click `Create repository` without initializing a README.md
@@ -31,6 +31,13 @@
 2. Name the repository and initialize it with a README.md then click `Create repository`
 3. Clone the repository by clicking `Clone or download` then copy the HTTP URL or SSH key
 4. Go onto your terminal and use [`git clone <HTTP URL or SSH key>`](commands/git-clone.md)
+
+---
+# Workflow
+1. Add any changes made in your repository by using [git add](commands/git-add.md)
+2. Save any changes added to the staging area by using [git commit](commands/git-commit.md)
+3. Send any committed changes onto the remote repository by using [git push](commands/git-push.md)
+> any remote changes can be obtained by using [git pull](commands/git-pull.md)
 
 ---
 ### Git Commands
