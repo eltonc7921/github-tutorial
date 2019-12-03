@@ -18,3 +18,5 @@ git add -A is used to add everything within the repository to the staging area.
 ```
 ~repository/ $ git add -A
 ```
+
+[Home](../README.md)

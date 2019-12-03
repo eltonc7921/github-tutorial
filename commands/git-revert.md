@@ -6,3 +6,5 @@ after using this command, you can press `control + X` to exit out of the nano ed
 ```
 ~/repository/ $ git revert <serial>
 ```
+
+[Home](../README.md)

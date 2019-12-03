@@ -12,3 +12,5 @@ git commit -m "[msg]" will include the commit message into one command without o
 ```
 ~/repository/ $ git commit -m "<msg>"
 ```
+
+[Home](../README.md)

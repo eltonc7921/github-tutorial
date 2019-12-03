@@ -6,3 +6,5 @@
 ~/repository/ $ git init
 Initialized empty Git repository in ~/repository/.git
 ```
+
+[Home](../README.md)
