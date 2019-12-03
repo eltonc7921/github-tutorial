@@ -1,6 +1,13 @@
 # Github Tutorial
 ###### *by Elton Chan*
 ---
+# IDE Setup
+Follow the directions [here](https://github.com/hstatsep/ide50)
+> Useful for having your terminal on the website so you can access it on any computer with WiFi
+
+> There are alternative ways to use a terminal that is local to your computer and not web based like `git bash`
+
+---
 # Repository Setup
 #### Setup using local terminal
 1. Create a directory using `mkdir <file>`
@@ -47,9 +54,9 @@
 * [git push](commands/git-push.md)
 * [git pull](commands/git-pull.md)
 * [git log](commands/git-log.md)
-* [git diff](commands/git-diff.md)
 * [git clone](commands/git-clone.md)
 * [git revert](commands/git-revert.md)
 
 ### Vocabulary
 * [Fork](vocabulary/fork.md)
+
