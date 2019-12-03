@@ -2,7 +2,7 @@
 ###### *by Elton Chan*
 ---
 # Repository Setup
-##### Setup using local terminal
+#### Setup using local terminal
 1. Create a directory using `mkdir <file>`
 2. cd into the directory
 3. initialize it using `git init`
@@ -25,6 +25,12 @@
     *use this after the using the commands previously:*
 
     `git push -u origin master`
+
+#### Setup using Github
+1. On the top right of the website, click the `+` and create a new repository
+2. Name the repository and initialize it with a README.md then click `Create repository`
+3. Clone the repository by clicking `Clone or download` then copy the HTTP URL or SSH key
+4. Go onto your terminal and use [`git clone <HTTP URL or SSH key>`](commands/git-clone.md)
 
 ---
 ### Git Commands
