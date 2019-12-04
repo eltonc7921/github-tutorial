@@ -46,6 +46,8 @@ Follow the directions [here](https://github.com/hstatsep/ide50)
 3. Send any committed changes onto the remote repository by using [git push](commands/git-push.md)
 > any remote changes can be obtained by using [git pull](commands/git-pull.md)
 
+> ALWAYS USE [GIT STATUS](commands/git-status.md)
+
 ---
 ### Git Commands
 * [git init](commands/git-init.md)
@@ -56,7 +58,17 @@ Follow the directions [here](https://github.com/hstatsep/ide50)
 * [git log](commands/git-log.md)
 * [git clone](commands/git-clone.md)
 * [git revert](commands/git-revert.md)
+* [git status](commands/git-status.md)
 
 ### Vocabulary
 * [Fork](vocabulary/fork.md)
+
+### Git Cheat Sheet
+Don't know what arguments to put after your command? Use `git help <command>`
+
+Don't know what any command does? Use `git help <command>`
+
+Don't know the syntax of the command? Use `git help <command>`
+
+Don't know what flags to use after the command? Use `git help <command>`
 
