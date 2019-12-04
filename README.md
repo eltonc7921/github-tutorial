@@ -1,6 +1,10 @@
 # Github Tutorial
 ###### *by Elton Chan*
 ---
+# Git and Github
+Git is a version control system that helps manage your history of code. Github is a cloud based server that utilizies git to make collaboration easier.
+
+---
 # IDE Setup
 Follow the directions [here](https://github.com/hstatsep/ide50)
 > Useful for having your terminal on the website so you can access it on any computer with WiFi
@@ -72,3 +76,23 @@ Don't know the syntax of the command? Use `git help <command>`
 
 Don't know what flags to use after the command? Use `git help <command>`
 
+---
+### Undo Changes
+**Undo edits**
+
+`git checkout -- <file>` will reset your code back to its last saved point
+
+**Undo staging**
+
+`git reset HEAD <file>` will remove the file off of the stage
+> `git reset HEAD~1` will remove all files
+
+**Undo commits**
+
+`git reset --soft HEAD~1` will undo the commit
+
+**Undo push**
+
+`git revert HEAD` will undo your latest committed changes and use the one previous
+
+`git revert <serial (can be looked up using git log)>` will remove specific committed changes
